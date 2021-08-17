@@ -1,7 +1,7 @@
 # Today I Learned
 
 
-> 꾸준히 런런!  
+> 꾸준히 런런!   
  
  
 ## Spring Framework
