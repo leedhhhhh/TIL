@@ -63,11 +63,12 @@ export default App;
 ex1) 
 ```c
 const Tab = styled.span<{ isActive: boolean }>`
-`;
+```
 ex2)
 ```c
 interface isActive {
    isActive: boolean;
 }
-`;
+
 const Tab = styled.span<isActive>`
+```
