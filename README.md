@@ -57,3 +57,14 @@ export default App;
 
 리액트는 컴포넌트가 가장 큰 장점 적용 시킨 코드와 적용시키지 않은 코드 중에 뭐가 컴포넌트 관리가 더 용이한지 생각해보기
 
+
+
+const Tab = styled.span<{인터페이스명}>` 
+
+ex1) const Tab = styled.span<{ isActive: boolean }>`
+
+ex2)
+interface isActive {
+   isActive: boolean;
+}
+const Tab = styled.span<isActive>`
