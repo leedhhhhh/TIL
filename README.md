@@ -60,10 +60,14 @@ export default App;
 
 > const interface = styled.span<{인터페이스명}>` 
 
-ex1) const Tab = styled.span<{ isActive: boolean }>`
-
+ex1) 
+```c
+const Tab = styled.span<{ isActive: boolean }>`
+`;
 ex2)
+```c
 interface isActive {
    isActive: boolean;
 }
+`;
 const Tab = styled.span<isActive>`
