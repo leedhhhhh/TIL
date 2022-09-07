@@ -1,7 +1,7 @@
 # Today I Learned 
 <br />
 
-## Recat
+## React
    
 > React , Redux, Hook 등 공부하면서 정리
 
