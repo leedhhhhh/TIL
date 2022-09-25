@@ -7,7 +7,7 @@
 references to its surrounding state (the lexical environment). In other words, 
 a closure gives you access to an outer function’s scope from an inner function. 
 In JavaScript, closures are created every time a function is created, at function creation time."
-```
+``` 
 
 간단하게 해석하자면 함수가 선언(실행이 아닌)될 때 외부의 렉시켤 환경을 참조하게 되는 현상
 
